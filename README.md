@@ -34,7 +34,7 @@
 ### 🧑‍💻 Build & Run
 
 #### Using CMake
-
+```bash
 git clone https://github.com/ultimateebeast/PathCrafter.git
 cd PathCrafter
 mkdir build && cd build
@@ -47,7 +47,7 @@ g++ -std=c++17 main.cpp -o PathCrafter -lsfml-graphics -lsfml-window -lsfml-syst
 ./PathCrafter
 On Windows (Visual Studio)
 Open PathCrafter.sln in Visual Studio
-
+```
 Build & Run
 
 🎮 How to Use
